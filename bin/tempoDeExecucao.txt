@@ -1,0 +1,174 @@
+// DECRESCENTE
+
+- Tempo dados_decrescente 200.000:
+Insertion: 985.385 milisegundos.
+Merge: 0.937 milisegundos.
+Quick: 0.638 milisegundos.
+QuickModificado: 0.633 milisegundos.
+Gnome: 2692.84 milisegundos.
+
+- Tempo dados_decrescente 100.000:
+Insertion: 220.044 milisegundos.
+Merge: 0.45 milisegundos.
+Quick: 0.316 milisegundos.
+QuickModificado: 0.322 milisegundos.
+Gnome: 648.56 milisegundos.
+
+- Tempo dados_decrescente 50.000:
+Insertion: 52.98 milisegundos.
+Merge: 0.222 milisegundos.
+Quick: 0.16 milisegundos.
+QuickModificado: 0.158 milisegundos.
+Gnome: 154.599milisegundos.
+
+- Tempo dados_decrescente 10.000:
+Insertion: 2.087 milisegundos.
+Merge: 0.043 milisegundos.
+Quick: 0.036 milisegundos.
+QuickModificado: 0.033 milisegundos.
+Gnome: 5.871 milisegundos.
+
+- Tempo dados_decrescente 5.000:
+Insertion: 0.308 milisegundos.
+Merge: 0.021 milisegundos.
+Quick: 0.018 milisegundos.
+QuickModificado: 0.017 milisegundos.
+Gnome: 0.823 milisegundos.
+
+- Tempo dados_aleatorio 1.000:
+Insertion: 0.015 milisegundos.
+Merge: 0.004 milisegundos.
+Quick: 0.003 milisegundos.
+QuickModificado: 0.003 milisegundos.
+Gnome: 0.034 milisegundos.
+
+- Tempo dados_decrescente 500:
+Insertion: 0.004 milisegundos.
+Merge: 0.002 milisegundos.
+Quick: 0.002 milisegundos.
+QuickModificado: 0.001 milisegundos.
+Gnome: 0.01 milisegundos.
+
+- Tempo dados_decrescente 100:
+Insertion: 0.001 milisegundos.
+Merge: 0.001 milisegundos.
+Quick: 0.001 milisegundos.
+QuickModificado: 0.001 milisegundos.
+Gnome: 0.001 milisegundos.
+
+// ALEATORIO
+
+- Tempo dados_aleatorio 200.000:
+Insertion: 452.517 milisegundos.
+Merge: 0.921 milisegundos.
+Quick: 0.699 milisegundos.
+QuickModificado: 0.711 milisegundos.
+Gnome: 1359.42 milisegundos.
+
+- Tempo dados_aleatorio 100.000:
+Insertion: 119.35 milisegundos.
+Merge: 0.456 milisegundos.
+Quick: 0.365 milisegundos.
+QuickModificado: 0.357 milisegundos.
+Gnome: 345.975 milisegundos.
+
+- Tempo dados_aleatorio 50.000:
+Insertion: 28.732 milisegundos.
+Merge: 0.22 milisegundos.
+Quick: 0.173 milisegundos.
+QuickModificado: 0.175 milisegundos.
+Gnome: 83.479 milisegundos.
+
+- Tempo dados_aleatorio 10.000:
+Insertion: 1.178 milisegundos.
+Merge: 0.043 milisegundos.
+Quick: 0.035 milisegundos.
+QuickModificado: 0.034 milisegundos.
+Gnome: 3.237 milisegundos.
+
+- Tempo dados_aleatorio 5.000:
+Insertion: 0.308 milisegundos.
+Merge: 0.021 milisegundos.
+Quick: 0.018 milisegundos.
+QuickModificado: 0.017 milisegundos.
+Gnome: 0.823 milisegundos.
+
+- Tempo dados_aleatorio 1.000:
+Insertion: 0.015 milisegundos.
+Merge: 0.004 milisegundos.
+Quick: 0.003 milisegundos.
+QuickModificado: 0.003 milisegundos.
+Gnome: 0.034 milisegundos.
+
+- Tempo dados_aleatorio 500:
+Insertion: 0.004 milisegundos.
+Merge: 0.002 milisegundos.
+Quick: 0.002 milisegundos.
+QuickModificado: 0.001 milisegundos.
+Gnome: 0.01 milisegundos.
+
+- Tempo dados_aleatorio 100:
+Insertion: 0.001 milisegundos.
+Merge: 0.001 milisegundos.
+Quick: 0.001 milisegundos.
+QuickModificado: 0.001 milisegundos.
+Gnome: 0.001 milisegundos.
+
+// CRESCENTE:
+
+- Tempo dados_crescente 200.000:
+Insertion: 86.846 milisegundos.
+Merge: 0.92 milisegundos.
+Quick: 0.649 milisegundos.
+QuickModificado: 0.646 milisegundos.
+Gnome: 258.196 milisegundos.
+
+- Tempo dados_crescente 100.000:
+Insertion: 21.576 milisegundos.
+Merge: 0.44 milisegundos.
+Quick: 0.315 milisegundos.
+QuickModificado: 0.314 milisegundos.
+Gnome: 59.887 milisegundos.
+
+- Tempo dados_crescente 50.000:
+Insertion: 5.333 milisegundos.
+Merge: 0.215 milisegundos.
+Quick: 0.163 milisegundos.
+QuickModificado: 0.156 milisegundos.
+Gnome: 14.967 milisegundos.
+
+- Tempo dados_crescente 10.000:
+Insertion: 0.229 milisegundos.
+Merge: 0.041 milisegundos.
+Quick: 0.031 milisegundos.
+QuickModificado: 0.031 milisegundos.
+Gnome: 0.596 milisegundos.
+
+- Tempo dados_crescente 5.000:
+Insertion: 0.524 milisegundos.
+Merge: 0.022 milisegundos.
+Quick: 0.016 milisegundos.
+QuickModificado: 0.016 milisegundos.
+Gnome: 1.462 milisegundos.
+
+- Tempo dados_crescente 1.000:
+Insertion: 0.025 milisegundos.
+Merge: 0.004 milisegundos.
+Quick: 0.004 milisegundos.
+QuickModificado: 0.003 milisegundos.
+Gnome: 0.066 milisegundos.
+
+- Tempo dados_crescente 500:
+Insertion: 0.007 milisegundos.
+Merge: 0.002 milisegundos.
+Quick: 0.001 milisegundos.
+QuickModificado: 0.004 milisegundos.
+Gnome: 0.007 milisegundos.
+
+- Tempo dados_crescente 100:
+Insertion: 0.001 milisegundos.
+Merge: 0.001 milisegundos.
+Quick: 0.002 milisegundos.
+QuickModificado: 0.001 milisegundos.
+Gnome: 0.004 milisegundos.
+
